@@ -92,7 +92,7 @@ Future works
 
 ## Acknowledgements
 -This project was inspired by the current economic state of the fish farmers
--Many thanks to Evans Bet, Boaz Leleina, Jayson Waigwa, Esther Mbugua, Dennis Mbiraru
+-Many thanks to Evans Bet, Boaz Leleina, Dennis Wambua, Esther Mbugua, Brenda Maina
 
 
 
